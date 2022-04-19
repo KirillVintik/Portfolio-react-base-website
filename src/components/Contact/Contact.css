@@ -1,0 +1,57 @@
+.contact .left {
+    width: 36%;
+}
+
+.contact .right {
+    width: 60%;
+}
+
+.contact .box {
+    padding: 30px;
+}
+
+.contact .details h1 {
+    margin: 20px 0 20px 0;
+    font-size: 35px;
+}
+
+.contact .details p {
+    font-size: 17px;
+}
+
+.contact .box img {
+    width: 100%;
+}
+
+.contact .button {
+    margin-top: 20px;
+}
+
+.contact .details button {
+    margin: 0 5px;
+}
+
+.contact .right {
+    padding: 35px;
+}
+
+.contact .input span {
+    font-size: 13px;
+}
+
+.contact input {
+    margin-top: 10px;
+}
+
+.contact .right button {
+    width: 100%;
+    color: #ff014f;
+}
+
+.contact .right button:hover {
+    color: white;
+}
+
+.contact .right button i {
+    margin-left: 10px;
+}

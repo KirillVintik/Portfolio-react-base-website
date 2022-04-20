@@ -8,10 +8,6 @@ import skill3 from "../../pic/skill3.png";
 import TypeWriter  from "react-typewriter";
 
 const Home = () => {
-  const handleDone = () => {
-    console.log(`Done after 5 loops!`);
-  };
-
   return (
     <>
       <section className="hero" id="home">
